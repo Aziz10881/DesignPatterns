@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Observer_Behavioral\bin\Debug\Observer_Behavioral.exe.config
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Observer_Behavioral\bin\Debug\Observer_Behavioral.exe
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Observer_Behavioral\bin\Debug\Observer_Behavioral.pdb
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Observer_Behavioral\obj\Debug\Observer_Behavioral.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Observer_Behavioral\obj\Debug\Observer_Behavioral.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Observer_Behavioral\obj\Debug\Observer_Behavioral.exe
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Observer_Behavioral\obj\Debug\Observer_Behavioral.pdb

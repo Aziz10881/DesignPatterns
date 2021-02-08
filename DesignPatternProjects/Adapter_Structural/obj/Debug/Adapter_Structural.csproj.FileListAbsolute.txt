@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Level5\OOP\CW\Builder\Adapter_Structural\bin\Debug\Adapter_Structural.exe.config
+C:\Users\Admin\Desktop\Level5\OOP\CW\Builder\Adapter_Structural\bin\Debug\Adapter_Structural.exe
+C:\Users\Admin\Desktop\Level5\OOP\CW\Builder\Adapter_Structural\bin\Debug\Adapter_Structural.pdb
+C:\Users\Admin\Desktop\Level5\OOP\CW\Builder\Adapter_Structural\obj\Debug\Adapter_Structural.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Level5\OOP\CW\Builder\Adapter_Structural\obj\Debug\Adapter_Structural.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Level5\OOP\CW\Builder\Adapter_Structural\obj\Debug\Adapter_Structural.exe
+C:\Users\Admin\Desktop\Level5\OOP\CW\Builder\Adapter_Structural\obj\Debug\Adapter_Structural.pdb
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Adapter_Structural\bin\Debug\Adapter_Structural.exe.config
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Adapter_Structural\bin\Debug\Adapter_Structural.exe
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Adapter_Structural\bin\Debug\Adapter_Structural.pdb
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Adapter_Structural\obj\Debug\Adapter_Structural.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Adapter_Structural\obj\Debug\Adapter_Structural.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Adapter_Structural\obj\Debug\Adapter_Structural.exe
+C:\Users\Admin\Desktop\Level5\OOP\CW\DesignPatternProjects\Adapter_Structural\obj\Debug\Adapter_Structural.pdb
